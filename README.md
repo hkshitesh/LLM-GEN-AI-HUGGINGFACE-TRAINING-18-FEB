@@ -7,6 +7,8 @@ Lab2: https://colab.research.google.com/drive/1y_1DCJcClemODlgZTn_IUCfraAxvOhyQ?
 
 Lab 3 (Langchain): https://colab.research.google.com/drive/1_bVfLtSyD9UM3IKwrUjwgwBPC9ciWubJ?usp=sharing
 
+Lab 4: Zero-Shot, Few-Shot and COT Lab: https://colab.research.google.com/drive/1UajWQrQnTXLJMRGK6x2avz99tsBTMwMf?usp=sharing
+
 
 
 ## Quiz 1 Leadboard
