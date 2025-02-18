@@ -1,4 +1,8 @@
-![image](https://github.com/user-attachments/assets/1b8f52f3-b501-4f7b-94e7-051a5c77e1b9)
+## DAY-1 Labs
+
+Lab 1: https://colab.research.google.com/drive/1-LBOuCT0BnjTUqyZ3SBN-bZBiGkBefMN?usp=sharing
+
+
 
 ## Quiz 1 Leadboard
 
