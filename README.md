@@ -9,6 +9,9 @@ Lab 3 (Langchain): https://colab.research.google.com/drive/1_bVfLtSyD9UM3IKwrUjw
 
 Lab 4: Zero-Shot, Few-Shot and COT Lab: https://colab.research.google.com/drive/1UajWQrQnTXLJMRGK6x2avz99tsBTMwMf?usp=sharing
 
+## CNN Video
+https://youtu.be/aircAruvnKk?si=CzA91fyPKBC7nWFF
+
 
 
 ## Quiz 1 Leadboard
