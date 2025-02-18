@@ -17,3 +17,8 @@ https://youtu.be/aircAruvnKk?si=CzA91fyPKBC7nWFF
 ## Quiz 1 Leadboard
 
 ![image](https://github.com/user-attachments/assets/377f809d-246b-45c3-82e7-1f038d9ce2d6)
+
+## Quiz 2 Leadboard
+
+![image](https://github.com/user-attachments/assets/d61891c2-7e9c-47cb-860e-3fa40065be17)
+
