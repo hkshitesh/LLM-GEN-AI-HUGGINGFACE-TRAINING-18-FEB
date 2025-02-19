@@ -19,7 +19,7 @@ GAN Lab: https://colab.research.google.com/drive/1dsnW5egXQM0dTSYqw_6xNHhDu08oM5
 
 RAG Lab: https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sharing
 
-
+word2Vec Lab: https://colab.research.google.com/drive/1wiguQTDag38Xmfmzompnqd1dugnO2GZz?usp=sharing
 
 ## CNN Video
 https://youtu.be/aircAruvnKk?si=CzA91fyPKBC7nWFF
