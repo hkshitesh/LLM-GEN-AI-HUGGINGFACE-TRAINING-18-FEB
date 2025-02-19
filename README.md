@@ -17,7 +17,7 @@ Autoencoder Lab-1 (CIFAR-10): https://colab.research.google.com/drive/1PMM1HupG5
 
 GAN Lab: https://colab.research.google.com/drive/1dsnW5egXQM0dTSYqw_6xNHhDu08oM5Tk?usp=sharing
 
-RAG Lab: https://colab.research.google.com/drive/1JUy85-dNvbD_sEtyPLT-RlEAngJH6Qif?usp=sharing
+RAG Lab: https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sharing
 
 
 
