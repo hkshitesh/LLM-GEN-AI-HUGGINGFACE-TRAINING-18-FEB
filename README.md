@@ -21,6 +21,8 @@ RAG Lab: https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-w
 
 word2Vec Lab: https://colab.research.google.com/drive/1wiguQTDag38Xmfmzompnqd1dugnO2GZz?usp=sharing
 
+Fine Tune LLM (Hugging Face) Lab: https://colab.research.google.com/drive/1QrdE6tVJ-D3zgdWssvCqYCxHmHjL_0r9?usp=sharing
+
 ## CNN Video
 https://youtu.be/aircAruvnKk?si=CzA91fyPKBC7nWFF
 
