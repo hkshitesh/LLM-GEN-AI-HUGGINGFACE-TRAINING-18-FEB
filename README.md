@@ -32,3 +32,8 @@ https://youtu.be/aircAruvnKk?si=CzA91fyPKBC7nWFF
 
 ![image](https://github.com/user-attachments/assets/d61891c2-7e9c-47cb-860e-3fa40065be17)
 
+## Quiz 3 Leadboard
+
+![image](https://github.com/user-attachments/assets/5a0e0b45-daf2-4f29-ba02-9f0460e1a920)
+
+
